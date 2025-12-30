@@ -1,13 +1,13 @@
-group = "app.revanced"
+group = "scorchat.harmonious"
 
 patches {
     about {
-        name = "ReVanced Patches template"
-        description = "Patches template for ReVanced"
-        source = "git@github.com:revanced/revanced-patches-template.git"
-        author = "ReVanced"
-        contact = "contact@revanced.app"
-        website = "https://revanced.app"
+        name = "Harmonious"
+        description = "Varioud patches for Discord Android build 126"
+        source = "git@github.com:Scorchat/harmonious"
+        author = "Scorchat"
+        contact = ""
+        website = ""
         license = "GNU General Public License v3.0"
     }
 }

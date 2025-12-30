@@ -1,4 +1,4 @@
-package scorchat.harmonious.patches.changeBackend
+package scorchat.harmonious.patches.discord.misc.changebackend
 
 import app.revanced.patcher.patch.bytecodePatch
 import app.revanced.patcher.patch.stringOption

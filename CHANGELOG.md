@@ -1,3 +1,10 @@
+## [0.0.2-dev.2](https://github.com/Scorchat/harmonious/compare/v0.0.2-dev.1...v0.0.2-dev.2) (2025-12-30)
+
+
+### Bug Fixes
+
+* **Discord:** Force specific version ([719b81e](https://github.com/Scorchat/harmonious/commit/719b81ef76cdd0c2339ad8b1bdfb854b137fe585))
+
 ## [0.0.2-dev.1](https://github.com/Scorchat/harmonious/compare/v0.0.1...v0.0.2-dev.1) (2025-12-30)
 
 

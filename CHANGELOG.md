@@ -1,3 +1,12 @@
+## [0.0.2-dev.3](https://github.com/Scorchat/harmonious/compare/v0.0.2-dev.2...v0.0.2-dev.3) (2025-12-30)
+
+
+### Bug Fixes
+
+* **Discord:** Follow other Revanced repo ([69b0077](https://github.com/Scorchat/harmonious/commit/69b00772c682b5030d1fd95d0e78b3e86d5ed147))
+* **Discord:** Oops syntax error ([e37dc3b](https://github.com/Scorchat/harmonious/commit/e37dc3b58c7dd00a5f77fd4ac05a111e01086d60))
+* **Discord:** Update patches.api ([7aa1b19](https://github.com/Scorchat/harmonious/commit/7aa1b19c5421daee5dd79ebdbd3e6a5278ee91fc))
+
 ## [0.0.2-dev.2](https://github.com/Scorchat/harmonious/compare/v0.0.2-dev.1...v0.0.2-dev.2) (2025-12-30)
 
 

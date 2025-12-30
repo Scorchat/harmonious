@@ -20,10 +20,10 @@ val changeBackendPatch = bytecodePatch(
 ) {
     compatibleWith("com.discord")
 
-    val host by stringOption(key = "host", default = "https://discord.com", title = "Host URL")
-    val hostApi by stringOption(key = "host_api", default = "https://discord.com/api/", title = "API URL")
-    val hostCdn by stringOption(key = "host_cdn", default = "https://cdn.discordapp.com", title = "CDN URL")
-    val hostInvite by stringOption(key = "host_invite", default = "https://discord.gg", title = "Invite URL")
+    val host by stringOption(key = "host", default = "https://discord.com", title = "Host URL", required = true)
+    val hostApi by stringOption(key = "host_api", default = "https://discord.com/api/", title = "API URL", required = true)
+    val hostCdn by stringOption(key = "host_cdn", default = "https://cdn.discordapp.com", title = "CDN URL", required = true)
+    val hostInvite by stringOption(key = "host_invite", default = "https://discord.gg", title = "Invite URL", required = true)
     val hostGift by stringOption(key = "host_gift", default = "https://discord.gift", title = "Gift URL")
     val hostAlternate by stringOption(key = "host_alternate", default = "https://discordapp.com", title = "Alternate Host URL")
     val hostTemplate by stringOption(key = "host_template", default = "https://discord.new", title = "Guild Template URL")

@@ -18,6 +18,8 @@ val changeBackendPatch = bytecodePatch(
     name = "Change Backend",
     description = "Allows changing the base URLs for API, Gateway, CDN, etc. to connect to custom instances."
 ) {
+    compatibleWith("com.discord")
+
     val host by stringOption(key = "host", default = "https://discord.com", title = "Host URL")
     val hostApi by stringOption(key = "host_api", default = "https://discord.com/api/", title = "API URL")
     val hostCdn by stringOption(key = "host_cdn", default = "https://cdn.discordapp.com", title = "CDN URL")

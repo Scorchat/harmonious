@@ -1,4 +1,4 @@
-public final class scorchat/harmonious/patches/discord/misc/changebackend/ChangeBackendPatchKt { {
+public final class scorchat/harmonious/patches/discord/misc/changebackend/ChangeBackendPatchKt {
 	public static final fun getChangeBackendPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
 

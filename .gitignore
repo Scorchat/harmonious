@@ -128,4 +128,5 @@ gradle.properties
 # Ignore IDEA files
 .idea/
 
+# Don't git commit compile
 bin/
